@@ -1,0 +1,189 @@
+*{
+  margin: 0;
+}
+.contenedor1{
+  overflow: auto;
+  border-bottom: 1px solid grey;
+  width: auto;
+  position: fixed;
+  background-color: white;
+  z-index: 500;
+  height: 13%;
+
+
+}
+
+ul{
+  list-style: none;
+  width: 100%;
+}
+li{
+
+  float: left;
+  height: 40px;
+  margin: 0;
+
+}
+.iconopintarest{
+  font-size: 40px;
+  color: #BD081C;
+  margin-top: 15px;
+}
+.buscador{
+  height: 40px;
+  margin: 20px;
+  background-color: #e5e8e8 ;
+  border-radius:10px;
+}
+li input:first-of-type{
+
+  height: inherit;
+  width: 900px;
+  background-color: transparent;
+  border: none;
+
+}
+.icono{
+  font-size: 40px;
+  color: grey;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+span{
+  font-weight: bold;
+}
+.contenedor2{
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  position: fixed;
+  top: 13.2%;
+  background-color: white;
+  z-index: 500;
+  width: 100%
+}
+
+.Boton1{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb1.jpg");
+}
+.Boton2{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb2.jpg");
+}
+.Boton3{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb3.jpg");
+}
+.Boton4{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb4.jpg");
+}
+.Boton5{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb5.jpg");
+}
+.Boton6{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb6.jpg");
+}
+.Boton7{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb7.jpg");
+}
+.Boton8{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb8.jpg");
+}
+.Boton9{
+  border-radius: 10px;
+  border: 1px solid black;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  background-image: url("texturas-botones/bb9.jpg")
+}
+.contenedor3{
+  position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+  top: 210px;
+
+}
+.imgenes{
+  width: 20%;
+  display:inline-block;
+  margin-top: 0;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+}
+
+img{
+  width: 100%;
+  border-radius: 20px;
+}
+
+.i1{
+  margin-bottom:500px
+}
+
+.i3{
+  margin-bottom: 620px;
+}
+.i4{
+  margin-bottom: 110px;
+}
+.i5{
+  width: 20%;
+  position: absolute;
+  margin-top: -790px;
+}
+.i7{
+  position: absolute;
+  width: 20%;
+  margin-top: -940px;
+}
